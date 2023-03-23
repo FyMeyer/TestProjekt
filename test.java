@@ -6,6 +6,5 @@ public class test {
                      System.out.println('JaJa');
               }
               System.out.println('Neue Mega Nachricht');
-              System.out.println('Neue Mega Nachricht2');
        }
 }
