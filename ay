@@ -1,0 +1,239 @@
+[33mcommit 624f839b27bbdd7e7e65f8eb5f94101058d9f382[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: ccfc3f8 a9011a5
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 12:05:01 2023 +0100
+
+    g
+
+[33mcommit a9011a5b92533689a0e16405bb28b738cd7e764c[m[33m ([m[1;31morigin/NeueBranch[m[33m, [m[1;32mNeueBranch[m[33m)[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 12:02:02 2023 +0100
+
+    Mergen
+
+[33mcommit 147fc0bff8b228f8c816bde6ea76bce6ed2301b3[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 12:00:55 2023 +0100
+
+    Mergen
+
+[33mcommit ccfc3f8f8952b7f3aca6cf65fea605f56fa105ea[m
+Merge: b63f223 5236462
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:58:07 2023 +0100
+
+    Merge branch 'NeueBranch'
+
+[33mcommit 5236462dac24f502fa85ae2d1c883089dcc32592[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:55:30 2023 +0100
+
+    Mergen
+
+[33mcommit a14cca8ad734b4d9e8e6e807c3d9915ad7569c30[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:53:47 2023 +0100
+
+    Update neueJavaDartei.java
+
+[33mcommit b63f2231ba90d8874eafa091e8d8dd25df6f1cf5[m
+Merge: d7ba540 888fd6d
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:52:55 2023 +0100
+
+    Merge branch 'main' of https://github.com/FyMeyer/TestProjekt
+
+[33mcommit d7ba540d8dfdc98231f9273cdf8ed78c378bc31b[m
+Merge: 5a36647 e86061f
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:52:02 2023 +0100
+
+    Merge branch 'NeueBranch'
+
+[33mcommit e86061f917bdd63fa0e4616ea74efd49a3f41073[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:49:01 2023 +0100
+
+    Neu
+
+[33mcommit 888fd6d80c401c68eae765c5abc38d4b53ffb7d7[m
+Merge: 5a36647 2fe912b
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Thu Mar 23 11:43:39 2023 +0100
+
+    Merge pull request #3 from FyMeyer/NeueBranch
+    
+    Neu
+
+[33mcommit 2fe912b651be9fc3fe7f591fcf413698af1043f4[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:36:46 2023 +0100
+
+    Neu
+
+[33mcommit 5a36647169b4453c5997c832e19335370e5a6339[m
+Merge: 79049f0 ce4e306
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Thu Mar 23 11:31:34 2023 +0100
+
+    Merge pull request #2 from FyMeyer/sx
+    
+    Create neueTestDartei.bat
+
+[33mcommit ce4e30653b79011df86a0cdbc0e238cb1d2685a7[m[33m ([m[1;31morigin/sx[m[33m, [m[1;32msx[m[33m)[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:27:56 2023 +0100
+
+    Create neueTestDartei.bat
+
+[33mcommit 79049f0599d6748ce0173de7ec529f364fad06f0[m
+Merge: 33b63c3 d2ee178
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:26:50 2023 +0100
+
+    Merge branch 'main' of https://github.com/FyMeyer/TestProjekt
+
+[33mcommit 33b63c36733791f865701890e0cb5fb4b2288234[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:26:14 2023 +0100
+
+    Update test.html
+
+[33mcommit d2ee1784185e491e7d7c1ce3eefa13149376337f[m
+Merge: ffc4790 1a15635
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Thu Mar 23 11:23:10 2023 +0100
+
+    Merge pull request #1 from FyMeyer/sx
+    
+    Create neueJavaDartei.java
+
+[33mcommit 1a15635acd9749aa4df4451ae950c005b64611ae[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:20:26 2023 +0100
+
+    Create neueJavaDartei.java
+
+[33mcommit ffc47906e037368c4ba1dbe1aab3420fafe3f4d1[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:16:46 2023 +0100
+
+    Create neuesProjekt erstellen.txt
+
+[33mcommit 0f5bcecb7afd9d47e0f4c58b2bf7d29ea90d31b2[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:11:41 2023 +0100
+
+    Neue Dartei die erklärt wie mann Pushen kann.
+
+[33mcommit 82e746c077d788b4ea12169aff1a906854969c9a[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:11:06 2023 +0100
+
+    Neue Dartei die erklärt wie mann Pushen kann.
+
+[33mcommit ec88cd9f04b566eb4096b36d6b6064eda039a145[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:08:44 2023 +0100
+
+    Entfernen der lezten Consolen ausgabe
+
+[33mcommit 7659e4ea639083772cf53571f49a59626731ef1c[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 11:07:34 2023 +0100
+
+    neu
+
+[33mcommit 5372f126c5a5f7dba5d2cabcead3a918bdcc1c07[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 09:56:17 2023 +0100
+
+    Neu
+
+[33mcommit 9cfebbbc54e6eaf5ba8a16abdec00f3f4589511f[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 09:55:14 2023 +0100
+
+    Neu
+
+[33mcommit e8a26ba15c3f530916c3c456f22b3ae44bf46178[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 08:52:35 2023 +0100
+
+    Update test.html
+
+[33mcommit 0e32f2f5a32c85e85d89baf4f514a49a628b096e[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 08:46:52 2023 +0100
+
+    Meta Tietle
+    
+    as
+
+[33mcommit b5fb973626f396e81398a391f606999047ddebad[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 08:36:44 2023 +0100
+
+    s
+
+[33mcommit 176596db9ea455a3648632e0534ba3819ec97db4[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 08:31:22 2023 +0100
+
+    Neues Mega Update vom Pc zur Website
+    
+    Neues Mega Update was am PC erstellt wurde
+
+[33mcommit af1448ec123c2de3446db6b46e23970e4cfe0595[m
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Thu Mar 23 08:25:35 2023 +0100
+
+    Neues Update | Bugs behoben
+    
+    Neuen Update bugs behoben langer Text
+
+[33mcommit b8046e4298fbf62919f34e2ca620e7c018cec44f[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Thu Mar 23 08:14:21 2023 +0100
+
+    Update README.md
+
+[33mcommit d7d4556feef9141bd063b5dea5e900135f13fd0b[m
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Wed Mar 22 16:54:22 2023 +0100
+
+    Update test.java
+    
+    test
+
+[33mcommit 908ea2543a1712444051be30f0abade4fb38a749[m
+Author: FyMeyer <f.meyer@xsigns.de>
+Date:   Wed Mar 22 16:51:29 2023 +0100
+
+    Update test.java
+    
+    testseite
+
+[33mcommit 6f8f02fc60821fc1a6a249a5c60f90d6067eb95d[m
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Wed Mar 22 16:49:44 2023 +0100
+
+    Add files via upload
+
+[33mcommit 6ee5ba2289c5450809c5b4fecf8dd613cf9671b7[m
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Wed Mar 22 16:44:47 2023 +0100
+
+    Update test.html
+
+[33mcommit 825dce853a8156d5831d358ee3279c4e5d0e9032[m
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Wed Mar 22 16:43:48 2023 +0100
+
+    Add files via upload
+
+[33mcommit e3f23d69edbcf03e0c3595696f5826c7b01c7dce[m
+Author: FyMeyer <128615632+FyMeyer@users.noreply.github.com>
+Date:   Wed Mar 22 16:33:01 2023 +0100
+
+    Initial commit
