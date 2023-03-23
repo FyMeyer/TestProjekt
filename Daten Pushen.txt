@@ -1,0 +1,5 @@
+git add .
+
+git commit -m '<Nachricht>'
+
+git push -u -t origin main
