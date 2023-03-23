@@ -2,4 +2,4 @@ git add .
 
 git commit -m '<Nachricht>'
 
-git push -u -t origin main
+git push -u -f origin main
