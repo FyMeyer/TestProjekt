@@ -5,5 +5,6 @@ public class test {
               if (1 == 1) {
                      System.out.println('JaJa');
               }
+              System.out.println('Neue Mega Nachricht');
        }
 }
