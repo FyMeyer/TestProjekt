@@ -3,4 +3,4 @@ Zweite Zeile mit viel Text
 Eine weitere Zeile mit viel Text
 Zeile die Bearbeitet wird: 2
 Noch zwei Zeilen mit viel Text
-Noch eine Zeilen mit viel Text
+Noch eine Zeilen mit viel Texte
