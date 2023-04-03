@@ -1,0 +1,7 @@
+cd C://Users/Praktikum/git/projekte
+
+mkdir <File Name>
+
+cd <File Name>
+
+git init

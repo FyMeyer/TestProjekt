@@ -1,0 +1,22 @@
+git add .
+
+git commit -m '<Nachricht>'
+
+git push -u -f origin main
+
+
+---------------------------------------
+Bransch wechseln Console
+
+git checkout <name>
+
+---------------------------------------
+Downloaden
+
+git pull
+
+---------------------------------------
+
+Mergen
+
+git merge
