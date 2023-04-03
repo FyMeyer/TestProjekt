@@ -10,7 +10,13 @@ Bransch wechseln Console
 
 git checkout <name>
 
---------------------------------------
+---------------------------------------
 Downloaden
 
 git pull
+
+---------------------------------------
+
+Mergen
+
+git merge
