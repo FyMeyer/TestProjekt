@@ -20,3 +20,4 @@ git pull
 Mergen
 
 git merge
+test
